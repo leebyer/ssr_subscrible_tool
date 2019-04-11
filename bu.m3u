@@ -3,7 +3,7 @@
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="cctv3",CCTV-3高清
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="cctv5",CCTV-5+高清
+#EXTINF:-1 tvg-id="cctv5plus",CCTV-5+高清
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="cctv6",CCTV-6高清
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
@@ -11,37 +11,37 @@ http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1,CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,北京卫视高清
+#EXTINF:-1 tvg-id="btv1",北京卫视高清
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1,北京文艺高清
+#EXTINF:-1 tvg-id="btv2",北京文艺高清
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1,北京纪实高清
+#EXTINF:-1 tvg-id="btvjishi",北京纪实高清
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1,湖南卫视高清
+#EXTINF:-1 tvg-id="hunan",湖南卫视高清
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1,浙江卫视高清
+#EXTINF:-1 tvg-id="zhejiang",浙江卫视高清
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1,江苏卫视高清
+#EXTINF:-1 tvg-id="jiangsu",江苏卫视高清
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1,东方卫视高清
+#EXTINF:-1 tvg-id="dongfang",东方卫视高清
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1,安徽卫视高清
+#EXTINF:-1 tvg-id="anhui",安徽卫视高清
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1,黑龙江卫视高清
+#EXTINF:-1 tvg-id="heilongjiang",黑龙江卫视高清
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1,辽宁卫视高清
+#EXTINF:-1 tvg-id="liaoning",辽宁卫视高清
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1,深圳卫视高清
+#EXTINF:-1 tvg-id="shenzhen",深圳卫视高清
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1,广东卫视高清
+#EXTINF:-1 tvg-id="guangdong",广东卫视高清
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1,天津卫视高清
+#EXTINF:-1 tvg-id="tianjin",天津卫视高清
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1,湖北卫视高清
+#EXTINF:-1 tvg-id="hubei",湖北卫视高清
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1,山东卫视高清
+#EXTINF:-1 tvg-id="shandong",山东卫视高清
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1,重庆卫视高清
+#EXTINF:-1 tvg-id="chongqin",重庆卫视高清
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 tvg-id="cctv1",CCTV-1综合
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
