@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cctv1",CCTV-1综合
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1,CCTV-3高清
+#EXTINF:-1 tvg-id="cctv3",CCTV-3高清
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1,CCTV-5+高清
+#EXTINF:-1 tvg-id="cctv5",CCTV-5+高清
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1,CCTV-6高清
+#EXTINF:-1 tvg-id="cctv6",CCTV-6高清
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1,CCTV-8高清
+#EXTINF:-1 tvg-id="cctv8",CCTV-8高清
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1,CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
@@ -43,39 +43,39 @@ http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1,重庆卫视高清
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1,CCTV-1综合
+#EXTINF:-1 tvg-id="cctv1",CCTV-1综合
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
-#EXTINF:-1,CCTV-2财经
+#EXTINF:-1 tvg-id="cctv2",CCTV-2财经
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1,CCTV-3综艺
+#EXTINF:-1 tvg-id="cctv3",CCTV-3综艺
 http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-#EXTINF:-1,CCTV-4中文国际
+#EXTINF:-1 tvg-id="cctv4",CCTV-4中文国际
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1,CCTV-6电影
+#EXTINF:-1 tvg-id="cctv6",CCTV-6电影
 http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-#EXTINF:-1,CCTV-7军事农业
+#EXTINF:-1 tvg-id="cctv7",CCTV-7军事农业
 http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1,CCTV-8电视剧
+#EXTINF:-1 tvg-id="cctv8",CCTV-8电视剧
 http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-#EXTINF:-1,CCTV-9纪录
+#EXTINF:-1 tvg-id="cctv9",CCTV-9纪录
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1,CCTV-10科教
+#EXTINF:-1 tvg-id="cctv10",CCTV-10科教
 http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1,CCTV-11戏曲
+#EXTINF:-1 tvg-id="cctv11",CCTV-11戏曲
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1,CCTV-12社会与法
+#EXTINF:-1 tvg-id="cctv12",CCTV-12社会与法
 http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1,CCTV-13新闻
+#EXTINF:-1 tvg-id="cctv13",CCTV-13新闻
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1,CCTV-14少儿
+#EXTINF:-1 tvg-id="cctv14",CCTV-14少儿
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1,CCTV-15音乐
+#EXTINF:-1 tvg-id="cctv15",CCTV-15音乐
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1,CCTV-NEWS
+#EXTINF:-1 tvg-id="cctv16",CCTV-NEWS
 http://ivi.bupt.edu.cn/hls/cctv16.m3u8
-#EXTINF:-1,北京卫视
+#EXTINF:-1 tvg-id="btv1",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
-#EXTINF:-1,北京文艺
+#EXTINF:-1 tvg-id="btv2",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2.m3u8
 #EXTINF:-1,北京科教
 http://ivi.bupt.edu.cn/hls/btv3.m3u8
@@ -91,15 +91,15 @@ http://ivi.bupt.edu.cn/hls/btv8.m3u8
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
 #EXTINF:-1,北京卡酷少儿
 http://ivi.bupt.edu.cn/hls/btv10.m3u8
-#EXTINF:-1,深圳卫视
+#EXTINF:-1 tvg-id="shenzhen",深圳卫视
 http://ivi.bupt.edu.cn/hls/sztv.m3u8
-#EXTINF:-1,安徽卫视
+#EXTINF:-1 tvg-id="anhui",安徽卫视
 http://ivi.bupt.edu.cn/hls/ahtv.m3u8
-#EXTINF:-1,河南卫视
+#EXTINF:-1 tvg-id="henan",河南卫视
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1,陕西卫视
+#EXTINF:-1 tvg-id="shanxi",陕西卫视
 http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1,吉林卫视
+#EXTINF:-1 tvg-id="jilin",吉林卫视
 http://ivi.bupt.edu.cn/hls/jltv.m3u8
 #EXTINF:-1,广东卫视
 http://ivi.bupt.edu.cn/hls/gdtv.m3u8
