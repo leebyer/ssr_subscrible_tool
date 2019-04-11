@@ -41,7 +41,7 @@ http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 tvg-id="shandong",山东卫视高清
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 tvg-id="chongqin",重庆卫视高清
+#EXTINF:-1 tvg-id="chongqing",重庆卫视高清
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 tvg-id="cctv1",CCTV-1综合
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
@@ -97,7 +97,7 @@ http://ivi.bupt.edu.cn/hls/sztv.m3u8
 http://ivi.bupt.edu.cn/hls/ahtv.m3u8
 #EXTINF:-1 tvg-id="henan",河南卫视
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1 tvg-id="shanxi",陕西卫视
+#EXTINF:-1,陕西卫视
 http://ivi.bupt.edu.cn/hls/sxtv.m3u8
 #EXTINF:-1 tvg-id="jilin",吉林卫视
 http://ivi.bupt.edu.cn/hls/jltv.m3u8
@@ -123,7 +123,7 @@ http://ivi.bupt.edu.cn/hls/sctv.m3u8
 http://ivi.bupt.edu.cn/hls/jstv.m3u8
 #EXTINF:-1 tvg-id="tianjin",天津卫视
 http://ivi.bupt.edu.cn/hls/tjtv.m3u8
-#EXTINF:-1 tvg-id="shanxi",山西卫视
+#EXTINF:-1 tvg-id="shan1xi",山西卫视
 http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
 #EXTINF:-1 tvg-id="liaoning",辽宁卫视
 http://ivi.bupt.edu.cn/hls/lntv.m3u8
