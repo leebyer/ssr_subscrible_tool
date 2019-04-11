@@ -57,7 +57,7 @@ http://ivi.bupt.edu.cn/hls/cctv6.m3u8
 http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 #EXTINF:-1 tvg-id="cctv8",CCTV-8电视剧
 http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-#EXTINF:-1 tvg-id="cctv9",CCTV-9纪录
+#EXTINF:-1 tvg-id="cctvjilu",CCTV-9纪录
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
 #EXTINF:-1 tvg-id="cctv10",CCTV-10科教
 http://ivi.bupt.edu.cn/hls/cctv10.m3u8
@@ -67,7 +67,7 @@ http://ivi.bupt.edu.cn/hls/cctv11.m3u8
 http://ivi.bupt.edu.cn/hls/cctv12.m3u8
 #EXTINF:-1 tvg-id="cctv13",CCTV-13新闻
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 tvg-id="cctv14",CCTV-14少儿
+#EXTINF:-1 tvg-id="cctvchild",CCTV-14少儿
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 #EXTINF:-1 tvg-id="cctv15",CCTV-15音乐
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
